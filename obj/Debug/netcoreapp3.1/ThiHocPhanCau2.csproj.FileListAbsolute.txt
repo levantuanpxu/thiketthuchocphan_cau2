@@ -1,0 +1,13 @@
+D:\gif CG\levantuanpxu\ThiHocPhanCau2\bin\Debug\netcoreapp3.1\ThiHocPhanCau2.exe
+D:\gif CG\levantuanpxu\ThiHocPhanCau2\bin\Debug\netcoreapp3.1\ThiHocPhanCau2.deps.json
+D:\gif CG\levantuanpxu\ThiHocPhanCau2\bin\Debug\netcoreapp3.1\ThiHocPhanCau2.runtimeconfig.json
+D:\gif CG\levantuanpxu\ThiHocPhanCau2\bin\Debug\netcoreapp3.1\ThiHocPhanCau2.runtimeconfig.dev.json
+D:\gif CG\levantuanpxu\ThiHocPhanCau2\bin\Debug\netcoreapp3.1\ThiHocPhanCau2.dll
+D:\gif CG\levantuanpxu\ThiHocPhanCau2\bin\Debug\netcoreapp3.1\ThiHocPhanCau2.pdb
+D:\gif CG\levantuanpxu\ThiHocPhanCau2\obj\Debug\netcoreapp3.1\ThiHocPhanCau2.csprojAssemblyReference.cache
+D:\gif CG\levantuanpxu\ThiHocPhanCau2\obj\Debug\netcoreapp3.1\ThiHocPhanCau2.AssemblyInfoInputs.cache
+D:\gif CG\levantuanpxu\ThiHocPhanCau2\obj\Debug\netcoreapp3.1\ThiHocPhanCau2.AssemblyInfo.cs
+D:\gif CG\levantuanpxu\ThiHocPhanCau2\obj\Debug\netcoreapp3.1\ThiHocPhanCau2.csproj.CoreCompileInputs.cache
+D:\gif CG\levantuanpxu\ThiHocPhanCau2\obj\Debug\netcoreapp3.1\ThiHocPhanCau2.dll
+D:\gif CG\levantuanpxu\ThiHocPhanCau2\obj\Debug\netcoreapp3.1\ThiHocPhanCau2.pdb
+D:\gif CG\levantuanpxu\ThiHocPhanCau2\obj\Debug\netcoreapp3.1\ThiHocPhanCau2.genruntimeconfig.cache
